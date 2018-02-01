@@ -14,8 +14,8 @@ Para reiniciar um atendimento, encontre o atendimento no calendário e clique em
 	<ul>
 		<li>Insira um CID e clique em Finalizar Atendimento para concluir </li>
 		<li>Para reiniciar, clique no atendimento no calendário e em Iniciar sessão</li>
-		<li>Documentos de uma sessão reiniciada serão inserido ao atendimento. É impossível alterar o histórico</li>
+		<li>Documentos de uma sessão reiniciada serão inseridos ao atendimento. É impossível alterar o histórico</li>
 	</ul>
-</div> 
+</div>
 
 <div style="clear: left; margin-bottom: 20px"></div>

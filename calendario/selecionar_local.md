@@ -2,7 +2,7 @@
 
 **Selecionar local de atendimento será necessário somente se o serviço de emissão e chamador de senhas for contratado**
 
-Se não houver o uso do sistema de senha, esses controles **NÂO** aparecerão e você pode ir para a próxima [seção](./recepcao.md).
+Se não houver o uso do sistema de senha, esses controles **NÃO** aparecerão e você pode ir para a próxima [seção](./recepcao.md).
 
 
 
@@ -26,4 +26,4 @@ Para selecionar o guichê de atendimento (se for recepcionista) ou o consultóri
 
 > **Possíveis Problemas**
 >  * Não sei o código do meu local de atendimento - utilize a busca hierarquica de localidades conforme mostrado do vídeo acima.
->  * Não encontrei meu local de atendimento no menu - entre em contato com o administrador de sua unidade para que o cadastro de todos os locais de atendimento sejam cadastrados 
+>  * Não encontrei meu local de atendimento no menu - entre em contato com o administrador de sua unidade para que o cadastro de todos os locais de atendimento sejam cadastrados

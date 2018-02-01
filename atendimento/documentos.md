@@ -13,13 +13,13 @@ Dependendo das configurações da sua unidade, mais documentos podem fazer parte
 		<li>Para navegar entre eles, clique em cima do nome</li>
 		<li>Não é necessário salvar o atendimento quando navegar entre documentos - os dados não serão perdidos</li>
 	</ul>
-</div> 
+</div>
 
 <div style="clear: left; margin-bottom: 20px"></div>
 
 
-É possível adicionar mais de um documento do mesmo tipo - por exemplo, deseja-se fazer duas receitas diferentes para o mesmo atendimento do paciente. 
-Clique no botão de "+" no canto inferior direito da tela de atendendimento.
+É possível adicionar mais de um documento do mesmo tipo - por exemplo, deseja-se fazer duas receitas diferentes para o mesmo atendimento do paciente.
+Clique no botão de "+" no canto inferior direito da tela de atendimento.
 
 
 <div class="left-float-framme framme70">
@@ -32,6 +32,6 @@ Clique no botão de "+" no canto inferior direito da tela de atendendimento.
 		<li>Um novo formulário do documento será inserido no topo da página</li>
 		<li>Prossiga o atendimento normalmente</li>
 	</ul>
-</div> 
+</div>
 
 <div style="clear: left;"></div>

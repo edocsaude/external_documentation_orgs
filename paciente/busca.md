@@ -34,6 +34,6 @@ Buscar por nome, CPF ou e-mail retornarão perfis de pacientes.
 		<li>Busque por nome, cpf ou e-mail</li>
 		<li>Selecione o perfil desejado na lista de resultados</li>
 	</ul>
-</div> 
+</div>
 
 <div style="clear: left; margin-bottom: 20px"></div>

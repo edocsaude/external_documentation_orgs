@@ -35,7 +35,7 @@ O cadastro dos dados de convênio também é feito aqui.
 
 **Seção aparece apenas para organizações que contrataram a funcionalidade de reconhecimento facial**
 
-Para tirar foto do paciente, clique no botão verde com o símbolo de câmera. 
+Para tirar foto do paciente, clique no botão verde com o símbolo de câmera.
 Se for a primeira foto do paciente, ela se tornará a base de todos os outros reconhecimentos faciais.
 A partir da segunda foto, a análise retornará positiva caso o percentual de reconhecimento facial seja maior que 80%.
 Para determinados convênios de saúde o reconhecimento facial servirá como assinatura eletrônica, eliminando a necessidade de impressão da guia do convênio.
@@ -69,7 +69,7 @@ A cobrança pode assumir 3 formas, dependendo do método de pagamento e do proce
 
 
 ### Particular, todos os convênios {#particular}
-O atendimento particular reque apenas a seleção do procedimento que será realizado, e da quantidade que será realizada.
+O atendimento particular requer apenas a seleção do procedimento que será realizado, e da quantidade que será realizada.
 Por exemplo, no caso de uma consulta, a quantidade realizada será igual a 1. No caso de uma escleroterapia de veias, em geral 5 aplicações são feitas e cobradas na mesma sessão, e a quantidade será 5.
 O preço é calculado automaticamente a partir dos contratos, mas caso se deseje dar um desconto, também é possível alterá-lo aqui.
 
@@ -134,10 +134,10 @@ Se o atendimento realizado for de um convênio que emite guias no padrão TISS, 
 
 > **Descrição dos campos da guia**
 >  * **Operadora**: Nome do convênio de saúde utilizado pelo paciente. Aparecerão apenas os convênios registrados no perfil do paciente para seleção.
->  * **Procedimento**: Procedimento para o qual está sendo realizada a recepção. Aparecerão apenas os procedimentos cadastrados para o profissional serão exibidos para seleção.
+>  * **Procedimento**: Procedimento para o qual está sendo realizada a recepção. Apenas os procedimentos cadastrados para o profissional serão exibidos para seleção.
 >  * **Senha de autorização [opcional]**: Lista com senhas de autorização já cadastradas em outros atendimentos do usuário. Caso não haja nenhuma senha cadastrada, clique no botão "Nova Senha"
-	> * **Senha**: é o código ofericido pelo convênio como senha se autorização
-	> * **Número de sessões autorizadas**: quantidade de sessões autorizadas pelo convênio. Para fisioterapia e psicologia, em geral são autorizados 10 sessões.
+	> * **Senha**: é o código oferecido pelo convênio como senha de autorização
+	> * **Número de sessões autorizadas**: quantidade de sessões autorizadas pelo convênio. Para fisioterapia e psicologia, em geral são autorizadas 10 sessões.
 	> * **Data da autorização**: Data em que a autorização foi emitida
 	> * **Data de validade da senha**: data em que a senha de autorização perde a validade. Geralmente 1 mês após a data de emissão.
 >  * **Retorno [opcional]**: assinalar manualmente se um atendimento é retorno e **não deve ser cobrado**. É necessário utilizar essa marcação apenas em casos de exceção. Em regime normal, o eDoc identifica automaticamente se um atendimento está dentro do prazo de retorno ou não.
@@ -148,7 +148,7 @@ Se o atendimento realizado for de um convênio que emite guias no padrão TISS, 
 	> * **Data**: data em que o pedido médico foi emitido
 >  * **Contratado Solicitante**: sessão para cadastro da empresa que solicitou o procedimento
 	> * **Contratado solicitante é o mesmo do executante**: preenche automaticamente os dados da unidade em que a recepção está sendo feita como os dados do contratado solicitante
-	> * **Nome do solicitante**: nome do médico, dá clínica ou do hospital que solicitou o procedimento
+	> * **Nome do solicitante**: nome do médico, da clínica ou do hospital que solicitou o procedimento
 	> * **Tipo de Identificador**: CPF, CNPJ ou Código do Prestador.
 	> * **Identificador na Operadora**: Número do CPF, CNPJ ou do código do prestador
 >  * **Profissional Solicitante**: sessão para cadastro dos dados do Profissional de Saúde que solicitou o procedimento

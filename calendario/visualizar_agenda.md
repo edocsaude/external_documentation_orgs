@@ -1,8 +1,8 @@
 # <img src=../img/logo.png height=25 style:"float:left"> Visualizar agenda de um profissional
 
-Ao selecionar a aba de PESSOAL, no canto superior esquerdo da tela, é mostrada a lista de profissionais aos quias você tem acesso à agenda dentro desta unidade.
+Ao selecionar a aba de PESSOAL, no canto superior esquerdo da tela, é mostrada a lista de profissionais aos quais você tem acesso à agenda dentro desta unidade.
 
-Para visualizar os agendamentos do dia deste profissional, basta encontrar o profissional desejado e selecionálo:
+Para visualizar os agendamentos do dia deste profissional, basta encontrar o profissional desejado e selecioná-lo:
 
 <div class="left-float-framme framme70">
 	<img src="../img/calendario/visualizar_agenda.gif">
@@ -15,7 +15,7 @@ Para visualizar os agendamentos do dia deste profissional, basta encontrar o pro
 		<li>A agenda do dia será mostrada no calendário, do lado direito da tela</li>
 		<li>É possível ver detalhes de cada agendamento <a href="#clique_agendamento">clicando em cima</a> do mesmo ou através da <a href="#busca_global">busca global</a></li>
 	</ul>
-</div> 
+</div>
 
 <div style="clear: left;"></div>
 
@@ -26,7 +26,7 @@ Para visualizar os agendamentos do dia deste profissional, basta encontrar o pro
 ###1. Clicar em um agendamento  {#clique_agendamento}
 
 <div class="left-float-framme framme50">
-	<img src="../img/calendario/detalhes1.gif"> 
+	<img src="../img/calendario/detalhes1.gif">
 </div>
 
 Ao clicar em cima de um agendamento, uma aba é aberta automaticamente com os detalhes do mesmo, além das opções de alterar o convênio, especialidade, horário agendado e botões para cancelar o evento ou iniciar a sua recepção.  
@@ -36,9 +36,8 @@ Ao clicar em cima de um agendamento, uma aba é aberta automaticamente com os de
 ###2. Busca Global {#busca_global}
 
 <div class="left-float-framme framme50">
-	<img src="../img/calendario/detalhes2.gif"> 
+	<img src="../img/calendario/detalhes2.gif">
 </div>
 
 Também é possível abrir a aba de detalhes do agendamento pela busca global. Basta buscar o nome ou o CPF do paciente para que todos os eventos agendados para o mesmo apareçam do lado esquerdo da tela, e todos os perfis de paciente apareçam do lado direito. Ao clicar sobre um evento, a mesmo aba de detalhes é mostrada.
 <div style="clear: left;"></div>
-

@@ -10,9 +10,9 @@ Ao rolar a tela para baixo, o profissional pode verificar todos os documentos re
 
 <div class="right-float-framme framme28">
 	<ul>
-		<li>Arraste a tela para baixo para ver os histórico do paciente</li>
+		<li>Arraste a tela para baixo para ver o histórico do paciente</li>
 		<li>Clique sobre o tipo de documento para expandir e ler o texto inserido no histórico</li>
 	</ul>
-</div> 
+</div>
 
 <div style="clear: left;"></div>

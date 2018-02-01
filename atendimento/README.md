@@ -3,7 +3,7 @@
 A página de atendimento é aberta quando o um profissional de saúde clica em Iniciar, na Sala de Espera.
 Uma nova tela será aberta para que o atendimento seja realizado.
 
-É importante notar que NÂO é possível realizar dois atendimentos ao mesmo tempo - é necessário finalizar um atendimento antes de iniciar outro.
+É importante notar que NÃO é possível realizar dois atendimentos ao mesmo tempo - é necessário finalizar um atendimento antes de iniciar outro.
 
 A tela de atendimento conta com as seguinte funcionalidades
 
