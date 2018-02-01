@@ -26,7 +26,7 @@ A peculiaridade de cada documento pode ser conferida nos seguintes links:
 		<li>Clique no botão de salvar texto</li>
 		<li>Insira o título do texto e salve</li>
 	</ul> -->
-</div> 
+</div>
 
 <div style="clear: left; margin-bottom: 20px"></div>
 
@@ -38,10 +38,10 @@ A peculiaridade de cada documento pode ser conferida nos seguintes links:
 </div>
 
 <div class="right-float-framme framme28">
-	<p>Os receituários permitem a impressão normal e receituário especial. Basta selecionar o receituário especial para que o formato do receituário seja alterado e para que a impressão já seja feita em duas vias.</p> 
-</div> 
+	<p>Os receituários permitem a impressão normal e receituário especial. Basta selecionar o receituário especial para que o formato do receituário seja alterado e para que a impressão já seja feita em duas vias.</p>
+</div>
 
-<div style="clear: left;"></div> 
+<div style="clear: left;"></div>
 
 
 ##3- Atestado {#atestado}
@@ -49,10 +49,10 @@ A peculiaridade de cada documento pode ser conferida nos seguintes links:
 <div class="left-float-framme framme70">
 	<img src="../img/atendimento/impressao3.gif">
 </div>
-<p>Além do texto inserido, o atestado imprime o Nome do Paciente, a data e hora em que a consulta foi agendada, a data e hora em que a consulta foi iniciada e um identificador único do documento de atestado. Qualquer pessoa que receba esse atestado pode entrar em <a href="https://atestados.edocsaude.com"></a>, inserir o código único e ver os dados de atestados que foram registrados em sistema. Ao comparar os dados da tela com os dados do atestado em papel, é possível verificar se o documento apresentado foi adulterado.</p>
+<p>Além do texto inserido, o atestado imprime o Nome do Paciente, a data e hora em que a consulta foi agendada, a data e hora em que a consulta foi iniciada e um identificador único do documento de atestado. Qualquer pessoa que receba esse atestado pode entrar em <a href="https://atestados.edocsaude.com">https://atestados.edocsaude.com</a>, inserir o código único e ver os dados de atestados que foram registrados em sistema. Ao comparar os dados da tela com os dados do atestado em papel, é possível verificar se o documento apresentado foi adulterado.</p>
 <div class="right-float-framme framme28">
-	
-</div> 
+
+</div>
 
 
 <div style="clear: left;"></div>
