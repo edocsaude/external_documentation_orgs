@@ -14,7 +14,7 @@ Buscar por nome, CPF ou e-mail retornarão perfis de pacientes.
 	<ul>
 		<li>Selecione a busca global em qualquer tela</li>
 		<li>Busque por nome, cpf ou e-mail</li>
-		<li>Perfis de pacientes serão mostrados no lado direito da tela </li>
+		<li>Perfis de pacientes serão mostrados no lado direito da tela</li>
 	</ul>
 </div> 
 
